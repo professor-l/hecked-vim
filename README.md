@@ -2,7 +2,7 @@
 
 `hecked-vim` is a vim theme that uses term256 colors.
 
-![Preview 1](https://github.com/professor-l/hecked-bim/blob/master/images/hecked.png)
+![Preview 1](https://github.com/professor-l/hecked-vim/blob/master/images/hecked.png)
 
 ### Setup
 
